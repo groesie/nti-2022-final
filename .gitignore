@@ -1,6 +1,7 @@
 /code/train_segmentation
 /code/train_recognition
 *.pth
+*.zip
 .idea
 /colab-image
 colab-image.zip

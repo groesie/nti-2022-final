@@ -1,0 +1,2 @@
+1) our best model for segmentation (f1 - 0,88537)
+2) recognition-baseline + 50-epoch (CER - 4.8473, ACC - 82.3451)
